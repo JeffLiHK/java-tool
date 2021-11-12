@@ -42,9 +42,9 @@ class test1 {
         System.out.println(b - a);
     }
 
-//    @Test
-//    void test4() {
-//        System.out.println("TESTING");
-//    }
+    @Test
+    void test4() {
+        System.out.println("TESTING");
+    }
 
 }
