@@ -1,6 +1,6 @@
 package test.util.string;
 
-import org.junit.jupiter.api.Test;
+import org.testng.annotations.Test;
 import util.string.StringUtil;
 
 /**
